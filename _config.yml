@@ -12,13 +12,13 @@ description: >
   Musings about applying Linked Data, Semantics and Machine Learning to solve problems.
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://vardeman.me" # the base hostname & protocol for your site
+url: "http://semanticmusings.blog" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Charles F Vardeman II'
 bio: >
   I'm a theoretical chemist in material science that wandered into the world of data.
-  Currently a computational scientist using exploring Semantic Web, Linked Data and Machine Learning to solve problems.
+  Currently a computational scientist using researching Semantic Web, Linked Data and Machine Learning for data discovery, reuse and question answering.
 author_image: "/assets/images/author.jpg"
 twitter_username: charlesvardeman
 github_username:  charlesvardeman
