@@ -17,8 +17,8 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Charles F Vardeman II'
 bio: >
-  I'm a theoretical chemist in material science that wandered into the world of data.
-  Currently a computational scientist using researching Semantic Web, Linked Data and Machine Learning for data discovery, reuse and question answering.
+  I'm trained as a theoretical chemist in material science and now have wandered into the world of data.
+  Currently a computational scientist researching Semantic Web, Linked Data and Machine Learning for data discovery, reuse and question answering.
 author_image: "/assets/images/author.jpg"
 twitter_username: charlesvardeman
 github_username:  charlesvardeman

@@ -7,8 +7,8 @@ $grey-color:       #828282;
 
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 80px;
+        height: 15px;
         vertical-align: middle;
 
         path {
@@ -16,6 +16,22 @@ $grey-color:       #828282;
         }
     }
 }
+
+
+.cc {
+
+    > svg {
+        display: inline-block;
+        width: 120px;
+        height: 42px;
+        vertical-align: middle;
+
+        path {
+            fill: $grey-color;
+        }
+    }
+}
+
 
 amp-img {
   background-color: grey;
