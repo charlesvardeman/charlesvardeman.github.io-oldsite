@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: Selecting a bloging platform
 categories: Blogging Platform
 ---
